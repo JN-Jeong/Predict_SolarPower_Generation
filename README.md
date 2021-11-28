@@ -17,8 +17,8 @@
 - 월간 시간대별 에너지 발생량 평균 Heatmap
 <img src="./Figure/Heatmap.png" width="700px" height="500px" title="Figure1"/>  
 의외로 여름보다 봄에 에너지 발생량이 많다는 것을 알 수 있음  
-#
-- 날씨 데이터 간 상관관계 분석
+
+  - 날씨 데이터 간 상관관계 분석
 <img src="./Figure/Weather Correlation.png" width="700px" height="500px" title="Figure2"/>  
 
 - 발전량과 날씨 데이터 상관관계 분석

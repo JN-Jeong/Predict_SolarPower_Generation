@@ -24,7 +24,8 @@
 
 - 발전량과 날씨 데이터 상관관계 분석
 <img src="./Figure/Generation-Weather Correlation.png" width="700px" height="400px" title="Figure3"/>  
-선의 기울기 값이 작은 것을 보아 발전량과 기온은 생각보다 큰 상관관계가 없다는 것을 알 수 있음       
+Temperature 선의 기울기 값이 작은 것을 보아 발전량과 기온은 생각보다 큰 상관관계가 없다는 것을 알 수 있음  
+
 오히려 습도와 구름량과의 상관관계가 있다는 것을 알 수 있음
 
 

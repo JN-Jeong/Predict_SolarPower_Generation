@@ -16,15 +16,14 @@
 # Feature Engineering
 - 월간 시간대별 에너지 발생량 평균 Heatmap
 <img src="./Figure/Heatmap.png" width="700px" height="500px" title="Figure1"/>
-의외로 여름보다 봄에 에너지 발생량이 많다는 것을 알 수 있음<br>
+++의외로 여름보다 봄에 에너지 발생량이 많다는 것을 알 수 있음++<br>
 <br>
 - 날씨 데이터 간 상관관계 분석
 <img src="./Figure/Weather Correlation.png" width="700px" height="500px" title="Figure2"/>  
 <br>
 - 발전량과 날씨 데이터 상관관계 분석
-<img src="./Figure/Generation-Weather Correlation.png" width="700px" height="400px" title="Figure3"/> Temperature 선의 기울기 값이 작은 것을 보아 발전량과 기온은 생각보다 큰 상관관계가 없다는 것을 알 수 있음<br>
-오히려 습도와 구름량과의 상관관계가 있다는 것을 알 수 있음
-
+<img src="./Figure/Generation-Weather Correlation.png" width="700px" height="400px" title="Figure3"/> ++Temperature 선의 기울기 값이 작은 것을 보아 발전량과 기온은 생각보다 큰 상관관계가 없다는 것을 알 수 있음++<br>
+++오히려 습도와 구름량과의 상관관계가 있다는 것을 알 수 있음++
 
 - 학습 데이터 추가
   - 기존 데이터 2018년~2021년

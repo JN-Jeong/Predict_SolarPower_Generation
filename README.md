@@ -15,7 +15,8 @@
 
 # Feature Engineering
 ![Figure1](./Figure/Heatmap.png)
-
+- 월간 시간대별 에너지 발생량 평균 Heatmap
 ![Figure2](./Figure/Weather Correlation.png)
-
+- 날씨 데이터 간 상관관계 분석
 ![Figure3](./Figure/Generation-Weather Correlation.png)
+- 발전량과 날씨 데이터 상관관계 분석

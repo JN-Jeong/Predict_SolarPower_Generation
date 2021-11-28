@@ -14,9 +14,9 @@
 - 울산지역 발전소 인근 기상 관측 자료
 
 # Feature Engineering
-<img src="./Figure/Heatmap.png" width="300px" height="200px" title="Figure1"/>
+<img src="./Figure/Heatmap.png" width="700px" height="300px" title="Figure1"/>
 - 월간 시간대별 에너지 발생량 평균 Heatmap
-<img src="./Figure/Weather Correlation.png" width="300px" height="200px" title="Figure2"/>
+<img src="./Figure/Weather Correlation.png" width="700px" height="300px" title="Figure2"/>
 - 날씨 데이터 간 상관관계 분석
-<img src="./Figure/Generation-Weather Correlation.png" width="300px" height="200px" title="Figure3"/>
+<img src="./Figure/Generation-Weather Correlation.png" width="700px" height="300px" title="Figure3"/>
 - 발전량과 날씨 데이터 상관관계 분석

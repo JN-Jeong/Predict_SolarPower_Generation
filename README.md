@@ -16,27 +16,25 @@
 # Feature Engineering
 - 월간 시간대별 에너지 발생량 평균 Heatmap
 <img src="./Figure/Heatmap.png" width="700px" height="500px" title="Figure1"/>
-++의외로 여름보다 봄에 에너지 발생량이 많다는 것을 알 수 있음++
+의외로 여름보다 봄에 에너지 발생량이 많다는 것을 알 수 있음
 <br>
 <br>
 - 날씨 데이터 간 상관관계 분석
 <img src="./Figure/Weather Correlation.png" width="700px" height="500px" title="Figure2"/>  
 <br>
 - 발전량과 날씨 데이터 상관관계 분석
-<img src="./Figure/Generation-Weather Correlation.png" width="700px" height="400px" title="Figure3"/> ++Temperature 선의 기울기 값이 작은 것을 보아 발전량과 기온은 생각보다 큰 상관관계가 없다는 것을 알 수 있음++
+<img src="./Figure/Generation-Weather Correlation.png" width="700px" height="400px" title="Figure3"/> Temperature 선의 기울기 값이 작은 것을 보아 발전량과 기온은 생각보다 큰 상관관계가 없다는 것을 알 수 있음
 <br>
-++오히려 습도와 구름량과의 상관관계가 있다는 것을 알 수 있음++
+오히려 습도와 구름량과의 상관관계가 있다는 것을 알 수 있음
 
 - 학습 데이터 추가
   - 기존 데이터 2018년~2021년
   - 추가 데이터 2015년~2017년
   - 성능 향상 없음 (단순히 학습 데이터를 추가하는 것은 성능 향상이 없는듯)
 
-
 - 23시 예보 데이터를 사용
   - 가장 최신화 된 데이터를 활용하는 것이 유리할 것이라 판단
   - 성능 소폭 상승
-
 
 - 일조, 일사량이 태양광 발전량 예측에 도움이 될 것이라 판단
   - 하지만 기상청에서 일조, 일사량 예보를 제공해주지 않음

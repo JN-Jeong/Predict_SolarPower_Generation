@@ -18,4 +18,4 @@
 
 ![Figure2](./Figure/Weather Correlation.png)
 
-![Figure2](./Figure/Generation-Weather Correlation.png)
+![Figure3](./Figure/Generation-Weather Correlation.png)

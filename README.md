@@ -15,3 +15,7 @@
 
 # Feature Engineering
 ![Figure1](./Figure/Heatmap.png)
+
+![Figure2](./Figure/Weather Correlation.png)
+
+![Figure2](./Figure/Generation-Weather Correlation.png)
